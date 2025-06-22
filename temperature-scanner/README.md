@@ -36,8 +36,6 @@ This project reads the internal temperature sensor of an ESP32 board and display
 
 **Learning Resources:**
 - [ESP32 Technical Reference Manual (PDF)](https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf)
-- [ESP32 Arduino Core: Internal Temperature Sensor](https://github.com/espressif/arduino-esp32/issues/1023)
-- [External Temperature Sensors with ESP32 (Random Nerd Tutorials)](https://randomnerdtutorials.com/esp32-temperature-sensor-lm35-ds18b20/)
 
 ---
 

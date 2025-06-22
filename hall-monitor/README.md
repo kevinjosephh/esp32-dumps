@@ -56,7 +56,6 @@ This project monitors magnetic fields using the ESP32's built-in Hall effect sen
 
 **Learning Resources:**
 - [ESP32 Technical Reference Manual - Hall Sensor](https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf)
-- [Hall Effect Sensor Basics (SparkFun)](https://learn.sparkfun.com/tutorials/hall-effect-sensor-hookup-guide)
 - [ESP32 ADC and Hall Sensor (Random Nerd Tutorials)](https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide/)
 
 ---
