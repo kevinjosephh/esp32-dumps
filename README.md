@@ -13,6 +13,7 @@ This repository logs small projects using the **ESP32 microcontroller**
 | Hall Effect Monitor  | Monitors magnetic fields using ESP32's built-in Hall sensor with LED feedback | [hall-monitor](./hall-monitor) |
 | Bluetooth Device Tracker | Scans nearby BLE devices and shows device names, RSSI, and estimated distances | [bluetooth-device-tracker](./bluetooth-device-tracker) |
 | Capacitive Touch Piano | Creates a musical instrument using ESP32's capacitive touch sensors with pentatonic scale | [capacitive-touch-piano](./capacitive-touch-piano) |
+| Morse Code Transmitter | Decodes Morse code input using ESP32's capacitive touch sensor with real-time character conversion | [morse-code-transmitter](./morse-code-transmitter) |
 
 ---
 
